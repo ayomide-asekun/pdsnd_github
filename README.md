@@ -1,17 +1,27 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Udacity US Bikeshare Project
 
-### Date created
-Include the date you created this project and README file.
+## Project Overview
+This project explores data analysis of US Bikeshare data using python. We are able to derive interesting stats such as:
 
-### Project Title
-Replace the Project Title
+* What is the most popular month?
+* What is the most popular day of week?
+* What is the most popular hour of day?
+* What is the total trip duration and average trip duration?
+* What is the most popular start station and most popular end station?
+* What is the most popular trip?
+* What are the counts of each user type?
+* What are the counts of gender?
+* What are the earliest, most recent, and most popular birth years?
 
-### Description
-Describe what your project is about and what it does
+## Running the program
 
-### Files used
-Include the files used
+Download the project locally on your computer. Extract the datasets (cities.csv) and navigate to the project directory on your terminal. Run this command in terminal:
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+`python bikeshare.py`
 
+You can view multiple cities in one run session. Enter "yes" to the prompt at the end.
+
+## Requirements
+
+* Language: Python 3.8 or above
+* Libraries: pandas, numpy, time
