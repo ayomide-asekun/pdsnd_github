@@ -15,9 +15,11 @@ This project explores data analysis of US Bikeshare data using python. We are ab
 
 ## Running the program
 
-Download the project locally on your computer. Extract the datasets(cities.csv) and navigate to the project directory on your terminal. Run this command in terminal:
+Download the project locally on your computer. Extract the datasets (cities.csv) and navigate to the project directory on your terminal. Run this command in terminal:
 
 `python bikeshare.py`
+
+You can view multiple cities in one run session. Enter "yes" to the prompt at the end.
 
 ## Requirements
 
