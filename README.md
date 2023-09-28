@@ -1,6 +1,6 @@
-#Udacity US Bikeshare project
+# Udacity US Bikeshare Project
 
-##Project Description
+## Project Overview
 This project explores data analysis of US Bikeshare data using python. We are able to derive interesting stats such as:
 
 * What is the most popular month?
@@ -13,13 +13,13 @@ This project explores data analysis of US Bikeshare data using python. We are ab
 * What are the counts of gender?
 * What are the earliest, most recent, and most popular birth years?
 
-
-##Running the program
+## Running the program
 
 Download the project locally on your computer. Extract the datasets(cities.csv) and navigate to the project directory on your terminal. Run this command in terminal:
+
 `python bikeshare.py`
 
-# Requirements
+## Requirements
 
 * Language: Python 3.8 or above
 * Libraries: pandas, numpy, time
